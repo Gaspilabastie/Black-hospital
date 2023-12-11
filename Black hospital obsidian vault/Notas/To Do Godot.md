@@ -1,0 +1,8 @@
+ - [ ] crear una carpeta llamada addons dentro de la carpeta del juego
+ - [ ] extraer "addons.zip" y pegarlo dentro de la carpeta de addons del juego
+ - [ ] instalar API de fmod
+ - [ ] copiar desde la carpeta donde instalamos la API los siguientes archivos ![[Pasted image 20231211021549.png]]
+ - [ ] y pegarlos dentro de la carpeta del juego en la siguiente dirección![[Pasted image 20231211021659.png]]
+ - [ ] Repetir el paso anterior con los siguientes archivos ![[Pasted image 20231211022211.png]]
+ - [ ] pegarlos en la misma carpeta que habíamos pegado los dos primeros ![[Pasted image 20231211022356.png]]
+ - [ ] Ir a configuración del proyecto > plugins > Activar el que se llama singleton

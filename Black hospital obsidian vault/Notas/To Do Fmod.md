@@ -1,0 +1,5 @@
+- [ ] Instalar fmod studio
+- [ ] crear carpeta de proyecto de fmod dentro de la carpeta de godot (asi se actualiza con el git)
+- [ ] [[realizar banda sonora]]
+- [ ] [[realizar foley y sfx]]
+- [ ] exportar bancos de sonido
