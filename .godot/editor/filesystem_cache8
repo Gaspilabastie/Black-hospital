@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702263271
+icon.svg::CompressedTexture2D::3520217834900596695::1700935522::1700935541::1::::<><>::
+::res://Assets/::1702262076
+Angeline.png::CompressedTexture2D::6486342627288816388::1702068220::1702068314::1::::<><>::
+John2.png::CompressedTexture2D::8307372296206398873::1702075149::1702075150::1::::<><>::
+Light Tile map2.png::CompressedTexture2D::4282239089178307779::1702262053::1702262076::1::::<><>::
+Light Tile map.png::CompressedTexture2D::39137868522344846::1702259523::1702259540::1::::<><>::
+::res://Scenes/::1702263137
+Angeline.tscn::PackedScene::815359515654750508::1702262801::0::1::::<><>::uid://cyobd6n4042ng::::res://Assets/Angeline.png
+John.tscn::PackedScene::4724008988770712243::1702262801::0::1::::<><>::res://Scripts/John.gd<>uid://dqmfhcpc4hxyf::::res://Assets/John2.png
+mundo.tscn::PackedScene::2155935659431405576::1702263137::0::1::::<><>::uid://b8kl0c72faj76::::res://Scenes/John.tscn<>uid://b2al38deqmbip::::res://Assets/Light Tile map2.png<>uid://lu738a3k6fs3::::res://Scenes/Angeline.tscn
+::res://Scripts/::1702077053
+John.gd::GDScript::-1::1702077053::0::1::::<>CharacterBody2D<>::
